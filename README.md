@@ -1,7 +1,7 @@
 ### Olá! Me chamo Thalys Rodrigues 👋
 
 
-- 🔭 Atualmente estou estudando HTML,CSS & JavaScript.
+- 🔭 Full Stack Developer — React · Next.js · TypeScript · Supabase · PostgreSQL · AI Integrations
 - 📫 Contate-me via e-mail: thalysrocha8@gmail.com
 
 <div align="center">
